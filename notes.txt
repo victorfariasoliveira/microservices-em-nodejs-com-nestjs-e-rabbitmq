@@ -1,4 +1,0 @@
-
-1. Pré-requisitos e criação do primeiro projeto:
-    Nestjs trabalha com módulos, então o minimo deixado inicialmente
-    dentro da src séra o main.ts e o app.module.ts
